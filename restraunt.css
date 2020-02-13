@@ -1,0 +1,169 @@
+.all {
+    background-color: #000;
+    font-family:   font-family: 'Ubuntu', sans-serif;
+   
+}
+
+.navbar {
+    background-color: #0d0d0d;
+
+}
+a
+{
+   
+    font-size: 20px;
+}
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+  
+  
+}
+
+a.navbar-brand {
+    font-size: 25px;
+      font-weight: bold;
+    
+}
+
+
+.carousel-caption {
+
+    top: 8%;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.carousel-caption span {
+
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.about {
+    word-wrap: break-word;
+
+    overflow: hidden;
+    margin-bottom: 50px;
+
+}
+
+.jumbotron {
+    width: 400px;
+    height: 285px;
+
+
+}
+
+.jumbotron span {
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.jumbotron h6,
+.jumbotron p {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.jumbotron p {
+    font-size: 16px;
+
+
+}
+
+.jumbotron img {
+    width: 350px;
+    height: 285px;
+    margin-left: -40px;
+    margin-top: -30px;
+
+
+}
+
+.jumbotron.right {
+    background-color: #000;
+}
+
+.jumbotron.left {
+    margin-left: 40px;
+}
+
+.menu,.our-crew
+{
+    width: 90%;
+    margin: 0 auto;
+}
+.menu span {
+    text-align: end;
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+    color: #e68a00;
+
+}
+
+.menu p {
+    font-size: 20px;
+}
+
+.menu-friez img,
+    {
+    width: 80%;
+    height: 501px;
+
+}
+
+.menu-pizza h6,
+.menu-fries h6,
+.menu-dish h6,.menu-dessert h6,.menu-salad h6 ,.place span,.our-crew h6,.contact .time h6,.contact .delivery h6 ,.contact .location h6 ,.contact .icons h6 {
+
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: #e68a00;
+}
+
+.menu-dessert img,.menu-pizza img,.menu-salad img
+{
+    width:500px;
+    height: 500px;
+}
+input
+{
+    background-color:  #e68a00;
+    font-weight: bold;
+    font-size: 22;
+    outline:0px;
+    color: #fff;
+    border: none;
+}
+
+
+.contact
+{
+    width: 70%;
+    margin: 0 auto;
+}
+footer
+{
+    
+    margin: 0 auto;
+    background-color: #0d0d0d;
+}
+footer p
+{
+    color:  #e68a00;
+    font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+    font-size: 20px
+}
+footer span, .num,.mail
+{
+    font-size: 14px;
+}
+i,img,.delivery p{
+    cursor: pointer;
+}
